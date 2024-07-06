@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/KushalGoyal09/NSUT_Space.git
+git clone https://github.com/Prabhjotsingh11/NSUTSPACE
 ```
 
 2. Navigate to the project directory:
@@ -36,10 +36,7 @@ cd NSUT_Space
 ```bash
 npm install
 ```
-## Live Deployment
 
-- **Backend Deployment (Railway):** [https://nsut-space2-production.up.railway.app](https://nsut-space2-production.up.railway.app/)
-- **Frontend Deployment (GitHub Pages):** [https://kushalgoyal09.github.io/NSUT-Space](https://kushalgoyal09.github.io/NSUT-Space)
 
 ## Technologies Used
 
